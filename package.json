@@ -2,6 +2,7 @@
   "name": "promptcrafter",
   "version": "0.1.0",
   "private": true,
+  "license": "Apache-2.0",
   "description": "Craft Claude-grade prompts and ready-to-run CLI skills (Claude Code / PowerShell / CMD) from a single workbench.",
   "scripts": {
     "dev":   "next dev -p 4747",

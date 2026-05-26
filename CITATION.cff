@@ -1,0 +1,37 @@
+# GitHub renders a "Cite this repository" button from this file.
+# Schema: https://citation-file-format.github.io/
+cff-version: 1.2.0
+title: "PromptCrafter"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - given-names: "Vugar"
+    family-names: "Familoglu"
+    email: "vuqar.qenberov@gmail.com"
+    alias: "vugarfamiloglu"
+repository-code: "https://github.com/vugarfamiloglu/promptcrafter"
+url: "https://github.com/vugarfamiloglu/promptcrafter"
+abstract: >-
+  PromptCrafter is a local-first workbench that turns a one-sentence task
+  description into either a Claude-grade XML prompt or a paste-and-run CLI
+  skill for Claude Code, Windows PowerShell, or Windows Command Prompt.
+  Built with Next.js, SQLite, and an AES-256-GCM-encrypted local key vault;
+  works with OpenAI, Anthropic, or Google Gemini provider keys, plus
+  OpenAI Whisper for voice input.
+keywords:
+  - prompt-engineering
+  - llm
+  - claude
+  - claude-code
+  - openai
+  - anthropic
+  - gemini
+  - whisper
+  - cli
+  - powershell
+  - cmd
+  - automation
+  - developer-tools
+license: Apache-2.0
+version: "0.1.0"
+date-released: "2026-05-26"

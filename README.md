@@ -170,4 +170,21 @@ Voice transcription always uses the OpenAI key (Whisper). Add an OpenAI key to e
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+PromptCrafter is licensed under the **Apache License, Version 2.0** —
+see [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+> Copyright 2026 Vugar Familoglu &nbsp;·&nbsp; <vuqar.qenberov@gmail.com>
+
+If you fork, redistribute, or build a derivative of PromptCrafter, the
+License (section 4) requires you to:
+
+1. Carry forward a copy of the **LICENSE** file.
+2. Carry forward a readable copy of the **NOTICE** file — this is the line
+   that ensures my authorship stays visible in your distribution.
+3. Mark any modified files as changed.
+4. Retain every copyright, patent, trademark and attribution notice present
+   in the source.
+
+Want to cite PromptCrafter in a paper, blog post or talk? GitHub renders a
+"Cite this repository" button from [CITATION.cff](CITATION.cff) in BibTeX
+and APA formats.
