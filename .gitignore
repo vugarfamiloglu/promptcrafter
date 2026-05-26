@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+*.log
+.env
+.env.local
+.env.*.local
+# everything in data/ is local state — DB, vault key, transcripts. Never commit.
+data/*
+!data/.gitkeep
+.DS_Store
+.idea/
+.vscode/
+*.tsbuildinfo
+coverage/

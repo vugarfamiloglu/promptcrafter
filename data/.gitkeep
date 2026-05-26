@@ -1,0 +1,2 @@
+# Placeholder so the folder ships with the repo. The SQLite DB, vault key, and
+# any other local state files land here at runtime and are ignored by git.
