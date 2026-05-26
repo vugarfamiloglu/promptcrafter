@@ -160,6 +160,14 @@ Voice transcription always uses the OpenAI key (Whisper). Add an OpenAI key to e
 
 "Workbench" — bone-paper light mode with a faint graph-paper grid, deep-navy dark mode, electric-blue accents for prompts, copper for skills, Space Grotesk display + JetBrains Mono throughout. Sharp 4-px corners and corner brackets evoke an engineer's drawing.
 
+## Screenshots
+
+<img width="1903" height="868" alt="111" src="https://github.com/user-attachments/assets/c56479c0-696c-44de-b74f-764dc82f04b0" />
+
+<img width="1015" height="707" alt="222" src="https://github.com/user-attachments/assets/d1036104-5ba0-4a11-999f-6355041b09b9" />
+
+<img width="1000" height="333" alt="333" src="https://github.com/user-attachments/assets/239ce9b6-e851-4523-8b34-2913d5f99e56" />
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
